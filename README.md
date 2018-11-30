@@ -1,2 +1,2 @@
-# treehouse-fsjs-project1
-Treehouse FEWD Project 9 - Project 1 A Random Quote Generator
+# Treehouse FSJS Project 1
+Project 1 - A Random Quote Generator
