@@ -108,6 +108,7 @@ function getRandomQuote(){
   return quotes[randNum];
 }
 
+
 //set 20 seconds intervew to run printQuote function
 var quoteTimer = setInterval( printQuote, 20000 );
 
