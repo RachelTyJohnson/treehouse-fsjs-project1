@@ -76,10 +76,14 @@ function getRandomQuote(){
 }
 
 //set 20 seconds intervew to run printQuote function
-setInterval( printQuote, 20000 );
+var quoteTimer = setInterval( printQuote, 20000 );
 
 //Print Quote Function
 function printQuote(){
+  //restart quoteTimer
+  clearInterval(quoteTimer);
+  quoteTimer = setInterval( printQuote, 20000 );
+
   //get a random quote
   let theQuote = getRandomQuote();
 
