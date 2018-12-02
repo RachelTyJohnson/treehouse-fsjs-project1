@@ -74,7 +74,7 @@ body {
 }
 
 .tags::before {
-  content: "(tags:";
+  content: "(tags: ";
   font-style: normal;
 }
 

@@ -50,6 +50,39 @@ let quotes = [
     source: "William Shakespeare",
     tags: "inspirational"
   },
+  {
+    quote: "Talk is cheap. Show me the code.",
+    source: "Linus Torvalds",
+    tags: "programming, linux"
+  },
+  {
+    quote: "They don't make bugs like Bunny anymore.",
+    source: "Olav Mjelde",
+    tags: "programming"
+  },
+  {
+    quote: "Good design adds value faster than it adds cost.",
+    source: "Thomas C. Gale",
+    tags: "programming"
+  },
+  {
+    quote: "Have no fear of perfection — you’ll never reach it.",
+    source: "Salvador Dali",
+    year: 1961,
+    tags: "design, art"
+  },
+  {
+    quote: "Creativity is nothing but a mind set free.",
+    source: "Torrie T. Asai",
+    year: 2015,
+    tags: "design, art"
+  },
+  {
+    quote: "Art is anything you can get away with.",
+    source: "Marshal McLuhan",
+    year: 2005,
+    tags: "design, art"
+  },
 ]
 
 //array of background gradients
